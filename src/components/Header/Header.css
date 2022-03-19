@@ -1,0 +1,12 @@
+.nav a{
+    text-decoration: none;
+    margin-right: 10px;
+    
+    font-weight: 600;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
+.nav{
+margin-top: 20px;
+}

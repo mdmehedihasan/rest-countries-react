@@ -1,0 +1,13 @@
+.countryApi{
+    background-color: brown;
+    padding: 10px;
+}
+.countryApi img{
+    width: 150px;
+}
+.countries-container{
+    background-color: green;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px; 
+}
